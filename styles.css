@@ -19,8 +19,8 @@ body {
   }
 
   .isButton {
-    color: pink;
+    color: blue;
     background-color: rgb(262, 221, 245);
-    font-family: Cambria, Cochin, 'Times New Roman';
+    font-family: Cambria, Cochin, Garamond, 'Times New Roman';
     border-radius: 10px;
   }
